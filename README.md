@@ -1,2 +1,2 @@
 # OOP-Restaurant-Menu-System
-restaurant menu system using object orientated programming in java
+Object Orientated Programming - Java Restaurant Booking system - Menu Editing and Creation
